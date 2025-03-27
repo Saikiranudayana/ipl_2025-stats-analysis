@@ -1,0 +1,1 @@
+This is an analysis of ipl2025 stats based on the players highest scores msde and also used linear regression and random forest,Desion Tree , hyper parameter tunning is slo done to find the best parameters for the random forest 
